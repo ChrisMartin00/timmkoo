@@ -1,0 +1,5 @@
+This folder is intended for the extracted /system firmware tree.
+
+Upload extracted firmware contents here if you want the repo to analyze and track them.
+
+Warning: this repository is public. Do not upload proprietary firmware files unless you are sure redistribution is allowed.
