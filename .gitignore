@@ -1,0 +1,29 @@
+# Local firmware dumps and unpacked images
+firmware/
+*.img
+*.bin
+*.rom
+*.fw
+*.pac
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+# Local build/output folders
+build/
+out/
+work/
+tmp/
+.cache/
+
+# Logs and reports
+*.log
+reports/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
